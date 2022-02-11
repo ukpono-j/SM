@@ -61,10 +61,11 @@
 }
 
 .mini-bx{
-  width: 400px;
+  width: auto;
   height: 50px;
   /* border: 1px solid #fff; */
   display: flex;
+  justify-content: end;
   align-items: center;
 }
 .navbar{
@@ -197,7 +198,7 @@
 
 @media screen and (max-width: 786px){
   .first-container{
-    padding: 0px 10px;
+    padding: 0px 20px;
   }
   .first-container_title p{
     font-size: 13px;
@@ -216,6 +217,9 @@
   .signup_bx_1{
     font-size: 12px;
     padding: 10px 14px;
+  }
+  .head_video_bx{
+    padding: 0px 20px;
   }
 }
 /* ============================ SECOND CONTAINER ==================== */
@@ -349,7 +353,7 @@
   height: 60vh;
   width: 100%;
   border: 1px solid #fff;
-  background: url(./images/7.webp);
+  background: url(./images/10.webp);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -363,7 +367,7 @@
   height: 60vh;
   width: 100%;
   border: 1px solid #fff;
-  background: url(./images/9.webp);
+  background: url(./images/11.webp);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -373,7 +377,7 @@
   height: 60vh;
   width: 100%;
   border: 1px solid #fff;
-  background: url(./images/8.webp);
+  background: url(./images/12.webp);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

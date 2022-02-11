@@ -1,5 +1,5 @@
 import './App.css';
-
+import Footer from './components/footer/Footer';
 
 function App() {
   return (
@@ -11,6 +11,7 @@ function App() {
             <a href='#' className='home-join'>Join Free Now</a>
             <div className='nav-search'>
               SI
+
             </div>
           </div>
         </div>
@@ -110,6 +111,8 @@ function App() {
           </div>
         </div>
       </div>
+
+      <Footer/>
     </div>
   );
 }
