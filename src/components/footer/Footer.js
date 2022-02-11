@@ -35,7 +35,7 @@ function footer() {
         <a href='#' alt="">Privacy</a>
         <a href='#' alt="">Terms and Conditions </a>
 
-        <a href='#' alt=""> ©2022 SDC.com. All rights reserved. </a>
+        <a href='#' alt=""> ©2022 SDC.com. All rights reserved........ </a>
       </div>
     </div>
   )
