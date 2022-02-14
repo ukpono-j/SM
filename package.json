@@ -1,6 +1,6 @@
 {
   "name": "secret",
-  "homepage": "http://ukpono-j.github.io/SM",
+  "homepage": "http://ukpono-j.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
