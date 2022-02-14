@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SM/static/css/main.15589441.css",
-    "main.js": "/SM/static/js/main.15b246f6.js",
+    "main.css": "/SM/static/css/main.215ede1e.css",
+    "main.js": "/SM/static/js/main.ddd4be0e.js",
     "static/media/16.webp": "/SM/static/media/16.332c4ddaf63dc727de51.webp",
     "static/media/image.jpg": "/SM/static/media/image.538e008af38debd49d46.jpg",
     "static/media/happy10.jpeg": "/SM/static/media/happy10.918ed1366d6a6f546485.jpeg",
@@ -9,11 +9,11 @@
     "static/media/BusterDown-ow950.otf": "/SM/static/media/BusterDown-ow950.b7bdf2e03152914423ad.otf",
     "static/media/02.jpeg": "/SM/static/media/02.ee728e9144388b01326b.jpeg",
     "index.html": "/SM/index.html",
-    "main.15589441.css.map": "/SM/static/css/main.15589441.css.map",
-    "main.15b246f6.js.map": "/SM/static/js/main.15b246f6.js.map"
+    "main.215ede1e.css.map": "/SM/static/css/main.215ede1e.css.map",
+    "main.ddd4be0e.js.map": "/SM/static/js/main.ddd4be0e.js.map"
   },
   "entrypoints": [
-    "static/css/main.15589441.css",
-    "static/js/main.15b246f6.js"
+    "static/css/main.215ede1e.css",
+    "static/js/main.ddd4be0e.js"
   ]
 }
