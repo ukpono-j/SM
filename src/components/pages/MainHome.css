@@ -167,6 +167,8 @@ position:relative;
 display:table-cell;
 vertical-align:middle;
 width:190px;
+color: white;
+text-decoration: none;
 letter-spacing: 3px;
 /* font-family: "Lilita One"; */
 font-family: "Roboto";

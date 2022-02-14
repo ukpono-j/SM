@@ -23,8 +23,9 @@ function SignIn() {
             <p>First Name</p>
             <input type="text" placeholder="Email Address" required />
 
+
             <p>Last Name</p>
-            <input type="text" placeholder="Email Address" required />
+            <input type="text" placeholder="Last Name" required />
 
             <p>Email Address</p>
             <input type="text" placeholder="Email Address" required />

@@ -28,10 +28,12 @@
     /* border: 1px solid #fff; */
     height: auto;
 }
-
+.signUp_img img{
+    width: 100%;
+}
 .SignUp_ input[type=text]{
     padding-left: 20px;
-    font-family: "Lilita One";
+    font-family: "Lilita One"; 
     color: gray !important;
 }
 
@@ -61,6 +63,8 @@
     padding-top: 20px;
     align-items: center;
     letter-spacing: 1px;
+    color: white;
+    text-decoration: none;
     font-size: 13px;
 }
 .login_signUp_btn{
@@ -72,6 +76,8 @@
     width: 100px;
     border: 1px solid #fff;
     justify-content: center;
+    color: white;
+    text-decoration: none;
     display: flex;
     align-items: center;
     letter-spacing: 1px;

@@ -9,6 +9,7 @@ import Shop from './components/pages/Shop';
 import ForgotPassword from './components/pages/ForgotPassword';
 import MainHome from './components/pages/MainHome';
 import Feeds from './components/pages/Feeds';
+import ChatRoom from './components/pages/ChatRoom';
 
 function App() {
   return (
@@ -22,6 +23,8 @@ function App() {
              <Route path='/feeds' exact component={Feeds} />
              <Route path='/forgotPassword' exact component={ForgotPassword} />
              <Route path='/signUp' exact component={SignUp } />
+             <Route path='/chatRoom' exact component={ChatRoom } />
+             
       </Switch >
     </Router>
 

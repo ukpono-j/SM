@@ -1,0 +1,24 @@
+.chat{
+    padding:0px 0px 0px 60px;
+}
+.chat_container{
+    display: flex;
+}
+.chat_bx_1{
+    width: 100%;
+    border: 1px solid #fff;
+    height: 100vh;
+}
+.chat_bx_2{
+    width: 500px;
+    border: 1px solid #fff;
+    background-color: #034a3d ;
+    color: white;
+    padding: 30px 20px;
+    height: 100vh;
+}
+.chat_bx_2 h1{
+    font-family: "buster";
+    font-size: 40px;
+    letter-spacing: 4px;
+}

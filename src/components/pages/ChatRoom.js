@@ -1,12 +1,11 @@
 import React from 'react'
-import { Link } from 'react-router-dom';
-import "./MainHome.css"
+import { Link } from 'react-router-dom'
+import "./ChatRoom.css"
 
 
-function Home() {
-    return (
-
-        <>
+function ChatRoom() {
+  return (
+    <>
             <nav className="main-menu">
                 <div>
                     <a className="logo" href="#">
@@ -108,13 +107,19 @@ function Home() {
                     </ul>
                 </div>
             </nav>
-            {/* ========================== MAIN CONTAINER ==================== */}
-           <div className='main_container main-scrollbar'>
-           Main Page
-           </div>
-        </>
+         {/* =============================== MAIN CHAT =============== */}
+         <div className='chat'>
+              <div className='chat_container'>
+                   <div className='chat_bx_1'>
 
-    );
+                   </div>
+                   <div className='chat_bx_2'>
+                    <h1>Live Chat Room</h1>
+                   </div>
+              </div>
+         </div>
+        </>
+  )
 }
 
-export default Home
+export default ChatRoom

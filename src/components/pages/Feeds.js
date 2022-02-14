@@ -5,7 +5,7 @@ import "./Feeds.css"
 function Feeds() {
   return (
     <>
-            <nav className="main-menu">
+              <nav className="main-menu">
                 <div>
                     <a className="logo" href="#">
                     </a>
@@ -20,14 +20,9 @@ function Feeds() {
                                 <Link to="/mainHome" className='nav-text'>Home</Link>
                             </a>
                         </li>
-                   
                         <li>
                             <a href="#">
                                 <i className="fa fa-home fa-lg" />
-                                {/* <span class="material-icons-outlined">
-                                        feed
-                                    </span> */}
-                                {/* <span className="nav-text">SDC Feed</span> */}
                                 <Link to="/feeds" className='nav-text'>SDC Feed</Link>
                             </a>
                         </li>
@@ -41,13 +36,6 @@ function Feeds() {
                             <a href="#">
                                 <i class="fa-brands fa-facebook-messenger"></i>
                                 <span className="nav-text">Messenger</span>
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="#">
-                                <i class="fa-solid fa-video"></i>
-                                <span className="nav-text">Live Cams</span>
                             </a>
                         </li>
                         <li>
@@ -108,8 +96,9 @@ function Feeds() {
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                        <a href="#">
                                 <i class="fa-solid fa-right-from-bracket"></i>
+                                {/* <span className="nav-text">Logouts</span> */}
                                 <Link className='nav-text' to="/login">Logouts</Link>
                             </a>
                         </li>
